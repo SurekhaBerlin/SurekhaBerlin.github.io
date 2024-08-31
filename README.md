@@ -13,11 +13,11 @@ Soft Skills: Problem-Solving, Communication, Team Collaboration
 
 **### Education**
 
-P.Eng. Electrical & Computer Science University of Toronto,Canada  May 2022
+P.Eng. Electrical & Computer Science UfT, Canada  May 2022
 
-M.Eng. Electrical & Computer Science Kannur University,India  September 2013
+M.Eng. Electrical & Computer Science India  September 2013
 
-B.Eng. Electrical & Computer Science Kannur University,India  September 2004
+B.Eng. Electrical & Computer Science India  September 2004
 
 **### Work Experience**
 
