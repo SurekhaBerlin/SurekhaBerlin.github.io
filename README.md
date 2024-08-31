@@ -21,7 +21,7 @@
 
 ### Work Experience
 
-Data Scientist @ Datamatics Technologies (June 2022 - Present)
+_Data Scientist @ Datamatics Technologies (June 2022 - Present)_
 
 * Designed and implemented interactive dashboards in Power BI and Tableau to monitor key business metrics and provide actionable insights.
 * Leveraged Azure Data Factory to create and manage ETL pipelines, integrating data from various sources and ensuring data accuracy and consistency.
@@ -29,7 +29,7 @@ Data Scientist @ Datamatics Technologies (June 2022 - Present)
 * Collaborated with stakeholders to identify data requirements and develop solutions that address business needs.
 * Automated data processing tasks, reducing the time required for data preparation and reporting by 50%.
 
-Data Analyst @ Impetus (May 2020 - June 2022)
+_Data Analyst @ Impetus (May 2020 - June 2022)_
 
 * Built and maintained Tableau dashboards to visualize sales, marketing, and operational data, driving a 15% increase in operational efficiency.
 * Utilized Azure Data Factory to streamline data integration processes and manage data workflows across multiple systems.
@@ -37,7 +37,7 @@ Data Analyst @ Impetus (May 2020 - June 2022)
 * Presented data-driven recommendations to senior management, contributing to successful product launches and marketing campaigns.
 * Implemented data quality checks and validations to ensure the accuracy of reports and dashboards.
 
-
+### Projects
 
 
 
