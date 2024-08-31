@@ -1,5 +1,3 @@
-# SurekhaBerlin.github.io
-
 **## Data Scientist / ML Engineer**
 
 **Technical Skills: Python,SQL,Microsoft Azure,Snowflake,MATLAB**
