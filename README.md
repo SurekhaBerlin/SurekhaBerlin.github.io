@@ -7,9 +7,9 @@
 * **ETL & Data Integration:** Azure Data Factory, SSIS
 * **Data Analysis:** Statistical Analysis, Predictive Modeling, Data Mining
 * **Tools & Technologies:** Excel, Hadoop, Spark, Microsoft Azure
-* **Database Management:**SQL Server, MySQL, PostgreSQL
-* **Machine Learning:**Scikit-learn, TensorFlow, Keras
-* **Soft Skills:**Problem-Solving, Communication, Team Collaboration
+* **Database Management:** SQL Server, MySQL, PostgreSQL
+* **Machine Learning:** Scikit-learn, TensorFlow, Keras
+* **Soft Skills:** Problem-Solving, Communication, Team Collaboration
 
 ### Education
 
