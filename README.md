@@ -30,7 +30,7 @@
 
 * Designed and implemented interactive dashboards in Power BI and Tableau to monitor key business metrics and provide actionable insights.
 * Leveraged Azure Data Factory to create and manage ETL pipelines, integrating data from various sources and ensuring data accuracy and consistency.
-* Developed predictive models using Python and R to forecast sales trends, resulting in a 20% improvement in inventory management.
+* Developed predictive models using Python to forecast sales trends, resulting in a 20% improvement in inventory management.
 * Collaborated with stakeholders to identify data requirements and develop solutions that address business needs.
 * Automated data processing tasks, reducing the time required for data preparation and reporting by 50%.
 
