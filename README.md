@@ -17,7 +17,7 @@
 
 ### Education
 
-* **P.Eng.** Electrical & Computer Science UfT, Canada  May 2022
+* **P.Eng.** Electrical & Computer Science UofT, Canada  May 2022
 
 * **M.Eng.** Electrical & Computer Science India  September 2013
 
