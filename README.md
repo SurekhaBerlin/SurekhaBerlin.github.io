@@ -17,11 +17,11 @@
 
 ### Education
 
-**P.Eng.** Electrical & Computer Science UfT, Canada  May 2022
+* **P.Eng.** Electrical & Computer Science UfT, Canada  May 2022
 
-**M.Eng.** Electrical & Computer Science India  September 2013
+* **M.Eng.** Electrical & Computer Science India  September 2013
 
-**B.Eng.** Electrical & Computer Science India  September 2004
+* **B.Eng.** Electrical & Computer Science India  September 2004
 
 
 ### Work Experience
