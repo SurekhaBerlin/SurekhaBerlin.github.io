@@ -1,8 +1,8 @@
 # Data Scientist / ML Engineer
-*****************
+
 
 ### Technical Skills
-*****************
+
 
 * **Programming Languages:** Python, SQL
 * **Data Visualization:** Power BI, Tableau, Lookup Studio
@@ -16,7 +16,7 @@
 
 
 ### Education
-*****************
+
 
 * P.Eng. Electrical & Computer Science UfT, Canada  May 2022
 
@@ -26,7 +26,7 @@
 
 
 ### Work Experience
-*****************
+
 **_Data Scientist @ Datamatics Technologies (June 2022 - Present)_**
 
 * Designed and implemented interactive dashboards in Power BI and Tableau to monitor key business metrics and provide actionable insights.
@@ -44,10 +44,8 @@
 * Implemented data quality checks and validations to ensure the accuracy of reports and dashboards.
 
 
-
-
 ### Projects
-*****************
+
 
 
 
