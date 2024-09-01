@@ -1,9 +1,9 @@
 # Data Scientist / ML Engineer
 *****************
 
-### Skills
+### Technical Skills
 
-*****************
+
 * **Programming Languages:** Python, SQL
 * **Data Visualization:** Power BI, Tableau, Lookup Studio
 * **ETL & Data Integration:** Azure Data Factory, SSIS
@@ -13,22 +13,20 @@
 * **Machine Learning:** Scikit-learn, TensorFlow, Keras
 * **Soft Skills:** Problem-Solving, Communication, Team Collaboration
   
-*****************
+
 
 ### Education
 
-*****************
+
 * P.Eng. Electrical & Computer Science UfT, Canada  May 2022
-
+*****************
 * M.Eng. Electrical & Computer Science India  September 2013
-
+*****************
 * B.Eng. Electrical & Computer Science India  September 2004
-  
 *****************
 
 ### Work Experience
 
-*****************
 **_Data Scientist @ Datamatics Technologies (June 2022 - Present)_**
 
 * Designed and implemented interactive dashboards in Power BI and Tableau to monitor key business metrics and provide actionable insights.
@@ -45,7 +43,7 @@
 * Presented data-driven recommendations to senior management, contributing to successful product launches and marketing campaigns.
 * Implemented data quality checks and validations to ensure the accuracy of reports and dashboards.
 
-*****************
+
 
 
 ### Projects
