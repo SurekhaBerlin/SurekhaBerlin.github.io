@@ -2,7 +2,7 @@
 *****************
 
 ### Technical Skills
-
+*****************
 
 * **Programming Languages:** Python, SQL
 * **Data Visualization:** Power BI, Tableau, Lookup Studio
@@ -16,17 +16,17 @@
 
 
 ### Education
-
+*****************
 
 * P.Eng. Electrical & Computer Science UfT, Canada  May 2022
-*****************
+
 * M.Eng. Electrical & Computer Science India  September 2013
-*****************
+
 * B.Eng. Electrical & Computer Science India  September 2004
-*****************
+
 
 ### Work Experience
-
+*****************
 **_Data Scientist @ Datamatics Technologies (June 2022 - Present)_**
 
 * Designed and implemented interactive dashboards in Power BI and Tableau to monitor key business metrics and provide actionable insights.
@@ -47,7 +47,7 @@
 
 
 ### Projects
-
+*****************
 
 
 
