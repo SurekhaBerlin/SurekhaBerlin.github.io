@@ -17,11 +17,11 @@
 
 ### Education
 
-* **P.Eng.** Electrical & Computer Science UofT, Canada  May 2022
+* **P.Eng.** Electrical & Computer Science, UofT, Canada,  May 2022
 
-* **M.Eng.** Electrical & Computer Science India  September 2013
+* **M.Eng.** Electrical & Computer Science, India,  September 2013
 
-* **B.Eng.** Electrical & Computer Science India  September 2004
+* **B.Eng.** Electrical & Computer Science, India,  September 2004
 
 
 ### Work Experience
@@ -75,7 +75,7 @@
 * Diagnosed system failures and determined the most cost-efficient solutions.
 * Created electrical and pneumatic drawings using AutoCAD.
 
-**_Senior Electrical Design Engineer @ Greyfusion Technologies (March 2004 - October 2007)_**
+**_Electrical Design Engineer @ Greyfusion Technologies (March 2004 - October 2007)_**
 
 * Designed hardware circuits and developed software using Embedded C in following projects: Automatic Headlight Dimmer, Intelligent Traffic light System (Embedded & IoT), LED Signal light, Smart LED Bulb
 * Designed and Developed LED modules with embedded drivers. 
