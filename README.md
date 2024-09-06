@@ -47,9 +47,7 @@
 * Designed and developed interactive Power BI reports and dashboards to visualize key performance indicators (KPIs) and business metrics.
 * Collaborated with stakeholders to gather requirements and ensure reports met business needs and provided actionable insights.
 * Presented findings and reports to senior management, facilitating data-driven decision-making and strategic planning.
-* Conducted a detailed review of the Toshiba Mitsubishi-Electric Industrial Systems Corporation (TMEIC) Inverter (1500 V & 1000 V) technical specifications and its performances.
 * Proposed appropriate range of Mitsubishi Electric Power Products (MEPPI)/TMEIC Inverters per IESO requirements.
-* Identified compliance with Electrical Safety Authority (ESA) code, Canadian Standards Association (CSA) standards, test and certifications required for mass scale deployment in Canada.
 
 **_Electrical Design Engineer @ Questron Technologies, Canada (February 2017- March 2018 )_**
 
